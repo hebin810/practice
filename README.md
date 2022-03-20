@@ -1,1 +1,1 @@
-# These are my practice examples for Tensorflow Machine Learning.
+These are my code practices for Tensorflow Machine Learning.
