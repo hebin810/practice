@@ -1,1 +1,1 @@
-These are my code practices for Tensorflow Machine Learning.
+Excercises from ISLR [https://www.statlearning.com/].
